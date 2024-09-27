@@ -1,14 +1,6 @@
 {
     "videos": [
       {
-        "id": 1,
-        "titulo": "Conhecendo a linguagem Go | Hipsters.Talks",
-        "descricao": "3 mil visualizações",
-        "url": "https://www.youtube.com/watch?v=nc8M5t_POKs",
-        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
-        "categoria": "Programação"
-      },
-      {
         "id": 2,
         "titulo": "Desmistificando mobile - Linguagens e Frameworks",
         "descricao": "1,5 mil visualizações",
